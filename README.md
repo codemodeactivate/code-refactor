@@ -2,12 +2,12 @@
 Case Western Bootcamp 2023
 
 ## To-Do
-- [ ] Use semantic HTML elements
-- [ ] Elements should follow a logical strucutre independent of styling and positioning
+- [x] Use semantic HTML elements
+- [x] Elements should follow a logical structure independent of styling and positioning
 - [ ] Add alt tags to all images
 - [x] Heading attributes should be in sequential order
 - [x] Add Descriptive title
-- [ ] Make sure CSS file is commented for grading purposes
+- [x] Make sure CSS file is commented for grading purposes
 - [ ] Add screenshot of deployed application
 - [ ] Add link to deployed screenshot
 
