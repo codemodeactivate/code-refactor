@@ -1,7 +1,8 @@
 # Bootcamp
 Case Western Bootcamp 2023
 
-![Live Site](https://codemodeactivate.github.io/week01-challenge/)
+[Live Site](https://codemodeactivate.github.io/week01-challenge/)
+
 ![Screenshot](assets/images/screenshot.png)
 
 ## To-Do
