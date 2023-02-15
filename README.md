@@ -1,8 +1,23 @@
 # Bootcamp
 Case Western Bootcamp 2023
 
+## To-Do
+- [ ] Use semantic HTML elements
+- [ ] Elements should follow a logical strucutre independent of styling and positioning
+- [ ] Add alt tags to all images
+- [x] Heading attributes should be in sequential order
+- [x] Add Descriptive title
+- [ ] Make sure CSS file is commented for grading purposes
+- [ ] Add screenshot of deployed application
+- [ ] Add link to deployed screenshot
 
-### 01 HTML, CSS, and Git: Code Refactor
+
+
+
+
+## Below is the assignment from which the aforementioned to-do list came from
+
+# 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
 
@@ -71,13 +86,6 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-
-## To-Do
-- [ ] Use semantic HTML elements
-- [ ] Elements should follow a logical strucutre independent of styling and positioning
-- [ ] Add alt tags to all images
-- [x] Heading attributes should be in sequential order
-- [x] Add Descriptive title
 
 ## Mock-Up
 
