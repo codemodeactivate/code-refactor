@@ -1,7 +1,8 @@
 # Bootcamp
 Case Western Bootcamp 2023
 
-![Screenshot](images/screenshot.png)
+![Live Site](https://codemodeactivate.github.io/week01-challenge/)
+![Screenshot](assets/images/screenshot.png)
 
 ## To-Do
 - [x] Use semantic HTML elements
@@ -11,8 +12,8 @@ Case Western Bootcamp 2023
 - [x] Add Descriptive title
 - [x] Make sure CSS file is commented for grading purposes
 - [x] Deploy applicaiton
-- [ ] Add screenshot of deployed application
-- [ ] Add link to deployed screenshot
+- [x] Add screenshot of deployed application
+- [x] Add link to deployed application
 
 
 
