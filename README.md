@@ -1,6 +1,8 @@
 # Bootcamp
 Case Western Bootcamp 2023
 
+![Screenshot](images/screenshot.png)
+
 ## To-Do
 - [x] Use semantic HTML elements
 - [x] Elements should follow a logical structure independent of styling and positioning
